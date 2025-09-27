@@ -1,15 +1,12 @@
-# sri_app
+# S.R.I.
 
-A new Flutter project.
+  Projeto de Estágio, Graduação em Ciência da Computação.
 
-## Getting Started
+## Iniciando
 
-This project is a starting point for a Flutter application.
+Esse projeto busca a criação de um aplicativo Mobile.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Que tem por objetivo principal realizar a criação de rotas ponto a ponto e em circuito.
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
